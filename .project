@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>agriport</name>
+	<comment></comment>
+	<projects>
+		<project>iLoveMyCity-EJS</project>
+		<project>iLoveMyCity-EJS-Refactored</project>
+		<project>module2</project>
+		<project>RemoteSystemsTempFiles</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.eclipsesource.jshint.ui.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.nodeclipse.ui.NodeNature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+		<nature>tern.eclipse.ide.core.ternnature</nature>
+	</natures>
+</projectDescription>
